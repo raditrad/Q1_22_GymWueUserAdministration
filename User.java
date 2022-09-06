@@ -4,6 +4,7 @@ public class User  {
     String lastName;
     String mail;
     String username;
+    char gender;
     Datum dayOfBirth;
     
 
